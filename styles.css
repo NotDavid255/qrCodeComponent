@@ -1,0 +1,44 @@
+*{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 10px;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:hsl(212, 45%, 89%);
+}
+.qrbox{
+    width: 100%;
+    max-width: 20rem;
+}
+img{
+
+}
+figcaption{
+
+}
+h2{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700px;
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
