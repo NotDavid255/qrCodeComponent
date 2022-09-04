@@ -18,7 +18,7 @@ body{
     width: 100%;
     background-color:var(--White);
 }
-.main{
+main{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,10 +48,10 @@ figcaption{
     text-align: center;
     max-width: 25rem;
 }
-p{
+p, h2{
     font-family: 'Outfit', sans-serif;
 }
-.bold{
+h2{
     margin-top: 2rem;
     font-weight: 700;
     font-size: 2rem;
